@@ -1,0 +1,9 @@
+Apple site style RGB
+
+Background 255,255,255
+
+Nav bar 50,50,50
+
+Sections 250,250,250
+
+Footer 242,242,242
