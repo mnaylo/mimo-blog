@@ -2,12 +2,13 @@
 
 body {
     color: #555;
+    background-color: #FAFAFA;
     margin: 0;
 
     font-family: 'Montserrat',sans-serif;
 }
 #header {
-    background-color: #1abc9c;
+    background-color: #323232;
     height: 150px;
     line-height: 150px;
 }
@@ -18,7 +19,7 @@ body {
     letter-spacing: 0.1em;
 }
 #header a:hover {
-    color: #222;
+    color: #52B2E8;
 }
 #header-title {
     display: block;
@@ -40,7 +41,7 @@ body {
     margin: 0 auto;
 }
 #footer {
-    background-color: #2f2f2f;
+    background-color: #F2F2F2;
     padding: 50px 0;
 }
 .column {
@@ -49,19 +50,19 @@ body {
     vertical-align: top;
 }
 #footer h4 {
-    color: white;
+    color: black;
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 #footer p {
-    color: white;
+    color: black;
 }
 a {
-    color: #1abc9c;
+    color: black;
     text-transform: none;
 }
 a:hover {
-    color: #F6A623;
+    color: #52B2E8;
 }
 
 .post, .about {
@@ -103,4 +104,8 @@ p {
 
 .post-author img, .about-author img {
     border-radius: 50%;
+}
+
+img {
+    border:10px solid #FFFFFF;
 }
